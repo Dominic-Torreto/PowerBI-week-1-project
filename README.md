@@ -1,61 +1,48 @@
 # PowerBI-week-1-project
-This repository contains a collection of Power BI assignments and related files submitted as part of the Week 1 training program. The assignments involve working with different datasets using Power BI, SQL, Excel, and DAX Studio.
+This repository contains all files and projects completed during Week 1 of the Power BI internship/training program. The assignments cover real-world data analysis tasks using Power BI, SQL, Excel, and DAX Studio.
 
-📁 Repository Structure
-yaml
-Copy
-Edit
-Week 1 Assignment/
-├── Day 1 Assignment/
-│   ├── Assignment Day 1.pbix                # Power BI file for Day 1
-│   ├── customer.xlsx                        # Excel dataset
-│   ├── Plant.csv                            # CSV dataset
-│   ├── SQLQuery.sql                         # SQL query files
-│   ├── SQLQuery1.sql
-│   ├── SQLQuery2.sql
-├── Day 2 and Day 3 Assignment/
-│   ├── Day-02 assignment.pbix               # Power BI file for Day 2
-│   ├── Day-03 assignment.pbix               # Power BI file for Day 3
-├── Day-04 Assignment/
-│   ├── Day 04 Assignment.docx               # Document outlining Day 4 task
-│   ├── Day-03 assignment.pbix               # Reused or updated Power BI file
-├── Day-05 Assignment/
-│   ├── Day 5 Assignment(DAX Studio).dax     # DAX queries
-│   ├── Day 5 Assignment(DAX Studio).dax.serverTimings # DAX Studio performance data
-│   ├── Day-03 assignment.pbix               # Updated Power BI file
-│   ├── Screenshot 2025-06-06 213318.png     # Supporting screenshot
-├── Day-06 Assignment/
-│   ├── Day-06 assignment Part 1 (Cement dataset).pbix
-│   ├── Day-6 Assignment part 2.pbix
-🔧 Tools & Technologies
-Power BI Desktop: Data modeling and visualization
+Each day focuses on a specific skillset—from data import and modeling to advanced DAX queries and performance tuning—aimed at building a solid foundation in business intelligence reporting and dashboard creation.
 
-Microsoft Excel & CSV: Raw data files
+🗂️ Contents
+Day 1 Assignment:
+Basic Power BI report using data from Excel and CSV. Includes SQL queries to join and shape data before importing.
 
-SQL Server: Querying and joining data
+Day 2 & 3 Assignment:
+More advanced Power BI visuals, including relationships, DAX measures, and interactivity features (like filters and slicers).
 
-DAX Studio: Performance optimization and analysis of DAX queries
+Day 4 Assignment:
+Documentation and updates on the Day 3 report, with feedback incorporation and visual improvements.
 
-📌 Topics Covered
-Data import and modeling in Power BI
+Day 5 Assignment:
+Use of DAX Studio to analyze performance, evaluate queries, and apply optimization techniques. Includes .dax and .serverTimings files.
 
-Visual creation and formatting
+Day 6 Assignment:
+Case study using a cement industry dataset. Focuses on storytelling with visuals and deep data insights using Power BI.
 
-SQL-based data transformation
+🛠 Tools & Technologies
+Power BI Desktop
 
-DAX formulas and performance tuning
+SQL Server / T-SQL
 
-Bookmarking, drillthrough, and report interactivity
+Microsoft Excel & CSV
 
-Cement industry analysis (Day 6 case study)
+DAX Studio
 
-🧠 How to Use
-Clone or download the repository.
+Data Modeling (Star Schema, Relationships)
 
-Open .pbix files using Power BI Desktop.
+Data Visualization Best Practices
 
-Open .sql files using any SQL editor connected to a database.
+📌 Objective
+To develop end-to-end BI solutions using a variety of tools and techniques, including:
 
-Explore .dax files in DAX Studio.
+Connecting to multiple data sources
 
-Refer to the .docx file for Day 4 documentation.
+Cleaning and shaping data
+
+Creating interactive dashboards
+
+Writing efficient DAX formulas
+
+Using external tools like DAX Studio for performance checks
+
+
